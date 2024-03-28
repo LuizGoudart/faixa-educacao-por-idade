@@ -1,8 +1,6 @@
 
 
 
-
-
 from datetime import datetime
 import customtkinter as tk
 from PIL import Image, ImageTk
